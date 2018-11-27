@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1543360355 source:d:\codeblocks\z10000\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ops.h"
+	"misc.h"
+
+1543351350 d:\codeblocks\z10000\ops.h
+
+1543352881 source:d:\codeblocks\z10000\vm.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"ops.h"
+	"misc.h"
+
+1543352869 d:\codeblocks\z10000\misc.h
+
+1543359851 source:d:\codeblocks\z10000\parser.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"misc.h"
+	"nodes.h"
+
+1543353031 d:\codeblocks\z10000\nodes.h
+
